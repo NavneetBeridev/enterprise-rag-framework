@@ -9,3 +9,5 @@ Generated documentation for convert_parser.
 # Touch update: 1760822025
 
 # PR Merge: 2025-10-19 - feature/merge-6161
+
+# PR Merge: 2025-10-19 - fix/merge-3784

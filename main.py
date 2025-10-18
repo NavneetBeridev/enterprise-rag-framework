@@ -59,3 +59,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# PR Merge: 2025-10-19 - fix/merge-8644

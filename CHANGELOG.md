@@ -13,3 +13,5 @@ Generated documentation for convert_parser.
 # PR Merge: 2025-10-19 - fix/merge-3784
 
 # PR Merge: 2025-10-19 - docs/merge-6285
+
+# PR Merge: 2025-10-19 - docs/merge-9546
